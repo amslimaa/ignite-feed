@@ -18,7 +18,8 @@ Durante este desafio, utilizamos os conceitos básicos do React desenvolvendo do
 
 * Vite
 * CSS Modules
-* Typescript
+* Javascript
+* ---Typescript---
 * React
 
 <br />
